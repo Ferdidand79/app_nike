@@ -11,7 +11,9 @@ class _HomePageShoes extends State<HomePageShoes> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Column(),
+      body: Column(
+        children: [],
+      ),
     );
   }
 }
