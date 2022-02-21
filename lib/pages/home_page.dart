@@ -11,8 +11,13 @@ class _HomePageShoes extends State<HomePageShoes> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Column(
-        children: [],
+      body: Center(
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.center,
+          children: [
+            Text("Hola nike"),
+          ],
+        ),
       ),
     );
   }

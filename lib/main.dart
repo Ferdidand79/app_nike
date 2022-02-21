@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     //SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersiveSticky); Ocultar ambas superposiciones:
     //SystemChrome.setEnabledSystemUIMode(SystemUiMode.edgeToEdge); Mostrar ambas superposiciones:
     return MaterialApp(
-      title: 'Flutter Shoes',
+      title: 'Flutter Shoes nike',
       theme: ThemeData.dark(),
       //(primarySwatch: Colors.blue),
       home: HomePageShoes(),//saque const
